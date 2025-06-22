@@ -1,6 +1,6 @@
 # Constellation Project
 
-Constillation drawn using turtle.
+Constellation drawn using turtle.
 
 ## How to Run
 
